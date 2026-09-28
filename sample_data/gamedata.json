@@ -1,0 +1,232 @@
+{
+	"activePlayer": {
+		"abilities": {
+			"E": {
+				"abilityLevel": 0,
+				"displayName": "정의의 주먹",
+				"id": "GalioE",
+				"rawDescription": "GeneratedTip_Spell_GalioE_Description",
+				"rawDisplayName": "GeneratedTip_Spell_GalioE_DisplayName"
+			},
+			"Passive": {
+				"displayName": "석상의 강타",
+				"id": "GalioPassive",
+				"rawDescription": "GeneratedTip_Passive_GalioPassive_Description",
+				"rawDisplayName": "GeneratedTip_Passive_GalioPassive_DisplayName"
+			},
+			"Q": {
+				"abilityLevel": 0,
+				"displayName": "전장의 돌풍",
+				"id": "GalioQ",
+				"rawDescription": "GeneratedTip_Spell_GalioQ_Description",
+				"rawDisplayName": "GeneratedTip_Spell_GalioQ_DisplayName"
+			},
+			"R": {
+				"abilityLevel": 0,
+				"displayName": "영웅출현",
+				"id": "GalioR",
+				"rawDescription": "GeneratedTip_Spell_GalioR_Description",
+				"rawDisplayName": "GeneratedTip_Spell_GalioR_DisplayName"
+			},
+			"W": {
+				"abilityLevel": 0,
+				"displayName": "듀란드의 방패",
+				"id": "GalioW",
+				"rawDescription": "GeneratedTip_Spell_GalioW_Description",
+				"rawDisplayName": "GeneratedTip_Spell_GalioW_DisplayName"
+			}
+		},
+		"championStats": {
+			"abilityHaste": 0.0,
+			"abilityPower": 9.0,
+			"armor": 24.0,
+			"armorPenetrationFlat": 0.0,
+			"armorPenetrationPercent": 1.0,
+			"attackDamage": 59.0,
+			"attackRange": 150.0,
+			"attackSpeed": 0.9374999403953552,
+			"bonusArmorPenetrationPercent": 1.0,
+			"bonusMagicPenetrationPercent": 1.0,
+			"critChance": 0.0,
+			"critDamage": 200.0,
+			"currentHealth": 610.0,
+			"healShieldPower": 0.0,
+			"healthRegenRate": 1.600000023841858,
+			"lifeSteal": 0.0,
+			"magicLethality": 0.0,
+			"magicPenetrationFlat": 0.0,
+			"magicPenetrationPercent": 1.0,
+			"magicResist": 32.0,
+			"maxHealth": 610.0,
+			"moveSpeed": 740.0,
+			"omnivamp": 0.0,
+			"physicalLethality": 0.0,
+			"physicalVamp": 0.0,
+			"resourceMax": 410.0,
+			"resourceRegenRate": 1.899999976158142,
+			"resourceType": "MANA",
+			"resourceValue": 410.0,
+			"spellVamp": 0.0,
+			"tenacity": 5.0
+		},
+		"currentGold": 605.0616455078125,
+		"fullRunes": {
+			"generalRunes": [
+				{
+					"displayName": "집중 공격",
+					"id": 8005,
+					"rawDescription": "perk_tooltip_PressTheAttack",
+					"rawDisplayName": "perk_displayname_PressTheAttack"
+				},
+				{
+					"displayName": "침착",
+					"id": 8009,
+					"rawDescription": "perk_tooltip_PresenceOfMind",
+					"rawDisplayName": "perk_displayname_PresenceOfMind"
+				},
+				{
+					"displayName": "전설: 핏빛 길",
+					"id": 9103,
+					"rawDescription": "perk_tooltip_9103",
+					"rawDisplayName": "perk_displayname_9103"
+				},
+				{
+					"displayName": "최후의 일격",
+					"id": 8014,
+					"rawDescription": "perk_tooltip_CoupDeGrace",
+					"rawDisplayName": "perk_displayname_CoupDeGrace"
+				},
+				{
+					"displayName": "비스킷 배달",
+					"id": 8345,
+					"rawDescription": "perk_tooltip_BiscuitDelivery",
+					"rawDisplayName": "perk_displayname_BiscuitDelivery"
+				},
+				{
+					"displayName": "마법의 신발",
+					"id": 8304,
+					"rawDescription": "perk_tooltip_MagicalFootwear",
+					"rawDisplayName": "perk_displayname_MagicalFootwear"
+				}
+			],
+			"keystone": {
+				"displayName": "집중 공격",
+				"id": 8005,
+				"rawDescription": "perk_tooltip_PressTheAttack",
+				"rawDisplayName": "perk_displayname_PressTheAttack"
+			},
+			"primaryRuneTree": {
+				"displayName": "정밀",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "영감",
+				"id": 8300,
+				"rawDescription": "perkstyle_tooltip_7203",
+				"rawDisplayName": "perkstyle_displayname_7203"
+			},
+			"statRunes": [
+				{
+					"id": 5005,
+					"rawDescription": "perk_tooltip_StatModAttackSpeed"
+				},
+				{
+					"id": 5008,
+					"rawDescription": "perk_tooltip_StatModAdaptive"
+				},
+				{
+					"id": 5001,
+					"rawDescription": "perk_tooltip_StatModHealthScaling"
+				}
+			]
+		},
+		"level": 1,
+		"riotId": "류시련#KR1",
+		"riotIdGameName": "류시련",
+		"riotIdTagLine": "KR1",
+		"summonerName": "류시련#KR1",
+		"teamRelativeColors": true
+	},
+	"allPlayers": [
+		{
+			"championName": "갈리오",
+			"isBot": false,
+			"isDead": false,
+			"items": [],
+			"level": 1,
+			"position": "NONE",
+			"rawChampionName": "game_character_displayname_Galio",
+			"rawSkinName": "game_character_skin_displayname_Galio_6",
+			"respawnTimer": 0.0,
+			"riotId": "류시련#KR1",
+			"riotIdGameName": "류시련",
+			"riotIdTagLine": "KR1",
+			"runes": {
+				"keystone": {
+					"displayName": "집중 공격",
+					"id": 8005,
+					"rawDescription": "perk_tooltip_PressTheAttack",
+					"rawDisplayName": "perk_displayname_PressTheAttack"
+				},
+				"primaryRuneTree": {
+					"displayName": "정밀",
+					"id": 8000,
+					"rawDescription": "perkstyle_tooltip_7201",
+					"rawDisplayName": "perkstyle_displayname_7201"
+				},
+				"secondaryRuneTree": {
+					"displayName": "영감",
+					"id": 8300,
+					"rawDescription": "perkstyle_tooltip_7203",
+					"rawDisplayName": "perkstyle_displayname_7203"
+				}
+			},
+			"scores": {
+				"assists": 0,
+				"creepScore": 0,
+				"deaths": 0,
+				"kills": 0,
+				"wardScore": 0.0
+			},
+			"skinID": 6,
+			"skinName": "꼬끼오",
+			"summonerName": "류시련#KR1",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "점화",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerDot_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "점멸",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				}
+			},
+			"team": "ORDER"
+		}
+	],
+	"events": {
+		"Events": [
+			{
+				"EventID": 0,
+				"EventName": "GameStart",
+				"EventTime": 0.022064099088311197
+			},
+			{
+				"EventID": 1,
+				"EventName": "MinionsSpawning",
+				"EventTime": 30.024511337280275
+			}
+		]
+	},
+	"gameData": {
+		"gameMode": "PRACTICETOOL",
+		"gameTime": 116.41088104248047,
+		"mapName": "Map11",
+		"mapNumber": 11,
+		"mapTerrain": "Default"
+	}
+}

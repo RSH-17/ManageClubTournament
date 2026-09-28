@@ -1,0 +1,12 @@
+node_modules/
+apps/*/node_modules/
+apps/web/.next/
+apps/web/out/
+apps/api/dist/
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+!.env.example
+__pycache__/
+*.py[cod]
