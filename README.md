@@ -25,3 +25,13 @@ npm run build
 ```
 
 프론트엔드는 기존 게임 유형 선택 화면을 옮긴 상태입니다. 선택 이후 화면과 실제 참여·경매 기능은 아직 구현되지 않았습니다. API 설정을 바꾸려면 `apps/api/.env.example`을 `apps/api/.env`로 복사한 뒤 값을 수정합니다. 기존 Python 수집 스크립트는 `apps/collector/lol_live_data.py`에 보관합니다.
+
+## 브랜치 이름 규칙
+
+브랜치 이름은 `영역/변경유형/작업내용` 형식을 사용합니다.
+
+- 영역: `api`, `web`, `collector` 등 변경 대상. 저장소 전체에 적용되는 작업은 `repo`를 사용합니다.
+- 변경유형: `feature`, `docs`, `fix` 등 작업 성격.
+- 작업내용: 실제 브랜치에서 다룰 내용을 짧은 영문 소문자와 하이픈으로 적습니다.
+
+예: `web/feature/participant-signup`, `api/fix/auction-bid-validation`, `collector/docs/setup-guide`, `repo/docs/branch-naming`.
